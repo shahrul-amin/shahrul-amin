@@ -1,4 +1,4 @@
-### Welcome to my GitHub page 👋
+### Welcome to my GitHub page
 
 My name is Shahrul Amin and I am a student that currently doing Web Developemt, Mobile App Development(Android), Machine Learning and Deep Learning Model. I do a lot of things, and some of them you may even find interesting. 🤞
 
@@ -26,6 +26,3 @@ My name is Shahrul Amin and I am a student that currently doing Web Developemt, 
 
 ---
 
-### Send me a message!
-
-- I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
