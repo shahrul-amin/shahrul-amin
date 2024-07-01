@@ -6,7 +6,7 @@ I'm Shahrul Amin, a student that currently doing Machine Learning and Deep Learn
 
 ---
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahrul-amin) 
 
 ---
