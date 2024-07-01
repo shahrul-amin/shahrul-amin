@@ -1,13 +1,8 @@
-[![](https://visitcount.itsvg.in/api?id=shahrul-amin&icon=5&color=1)](https://visitcount.itsvg.in)
-
 # Welcome to my GitHub page
 
+[![](https://visitcount.itsvg.in/api?id=shahrul-amin&icon=5&color=1)](https://visitcount.itsvg.in)
+
 I'm Shahrul Amin, a student that currently doing Machine Learning and Deep Learning Model, Web Development and Mobile App Development. I do a lot of things and some of them you may even find interesting...maybe? (p/s: I'm lazy)
-
----
-
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahrul-amin) 
 
 ---
 
