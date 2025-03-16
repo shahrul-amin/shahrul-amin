@@ -44,7 +44,7 @@ I'm Shahrul Amin, a student that currently doing Machine Learning and Deep Learn
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shahrul-amin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shahrul-amin&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=shahrul-amin&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahrul-amin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
